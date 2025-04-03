@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SoundSnap</string>
+    <string name="play" />
+    <string name="favorite" />
+    <string name="search" />
+    <string name="settings" />
+</resources>
